@@ -7,5 +7,5 @@ cascade:
   hideFeatureImage: false
   invertPagination: true
 ---
-Portfolio of my projects
+Project Portfolio
 

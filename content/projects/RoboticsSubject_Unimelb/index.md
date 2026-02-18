@@ -7,10 +7,17 @@ tags: ["robotics", "teaching"]
 showDate: false
 ---
 
-## 2019-2024 Serial Manipulator Robotic System (Tutor / Head Tutor)
-I served as a **(Head) Tutor** of MCEN 90028 Robotics Systems at University of Mlebourne from 2020 to 2024. I was a student who received First-class Honour (H1) grade in 2019.
+## Serial Manipulator Robotic System
+I served as **Head Tutor** for MCEN90028 Robotics Systems at the University of Melbourne from 2020 to 2024. I received First-Class Honours (H1) as a student in 2019. Subject content included robot kinematics (DH parameters), differential kinematics (Jacobian), dynamics, and closed-loop control systems.
 
+I delivered technical material to students at a range of levels and provided ongoing consultation on robot prototyping projects, including mechanical design, component selection, embedded system design, and programming.
 
-{{< youtubeLite id="jgh7FETa9W0" label="UA-DPC demo" >}}
+* Hands-on Robotic Prototyping
+{{< youtubeLite id="z51WqJZk6r8" label="robot subject demo" >}}
 
-## 2020-2025 Capstone Project (Supervisor / Mentor)
+* Robotic System Modelling and Simulation
+{{< youtubeLite id="F0dwtOfu_kU" label="robot subject simulation demo" >}}
+
+****
+## 2020–2025 Capstone Project (Supervisor / Mentor)
+I served as a Capstone project supervisor and mentor at the University of Melbourne from 2020 to 2025. Two teams I supervised received Merit Awards for their projects in the [Endeavour Exhibition](https://endeavour.unimelb.edu.au/).
