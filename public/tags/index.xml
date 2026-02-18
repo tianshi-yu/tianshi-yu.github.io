@@ -32,6 +32,16 @@
     </item>
     
     <item>
+      <title>Sensor</title>
+      <link>http://localhost:1313/tags/sensor/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
+      <guid>http://localhost:1313/tags/sensor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Hri</title>
       <link>http://localhost:1313/tags/hri/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
@@ -54,7 +64,7 @@
     <item>
       <title>Pneumatic</title>
       <link>http://localhost:1313/tags/pneumatic/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
       <guid>http://localhost:1313/tags/pneumatic/</guid>
       <description></description>
