@@ -32,12 +32,12 @@
     </item>
     
     <item>
-      <title>Data-driven Modelling for Human-Robot Interaction in Mining and Maritime Industry</title>
+      <title>Data-driven Modelling for Human–Robot Interaction in the Mining and Maritime Industries</title>
       <link>http://localhost:1313/projects/miningsimulator_unimelb/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
       <guid>http://localhost:1313/projects/miningsimulator_unimelb/</guid>
-      <description>Develop human state prediction model used in VR training for effective human-autonomy collaboration.</description>
+      <description>Developed human-state prediction models for VR training that supports effective human–autonomy collaboration.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/miningsimulator_unimelb/featured.jpg" />
     </item>
     

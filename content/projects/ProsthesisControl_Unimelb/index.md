@@ -3,7 +3,7 @@ title: "Data-driven Upper-limb Prosthesis Control and Validation"
 date: 2024-08-10
 description: "Research Project"
 summary: "Developed machine learning and control algorithms for human intention detection and prosthesis control with validation using VR and robotic prototypes."
-tags: ["prostheses", "R&D"]
+tags: ["EMG", "Motion", "VR (Unity)","SAMD21", "Intention Detection","Machine Learning"]
 showDate: false
 math: true
 ---
@@ -16,7 +16,7 @@ math: true
 
 * Built a dedicated experimental platform using **Unity (C#)** for VR simulation and data logging at up to **2 kHz**, **ESP32** for embedded sensor data acquisition and transmission firmware, and **Python** for online decision-making.
 
-* Published in IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE-TNSRE). Paper can be found [here](https://ieeexplore.ieee.org/document/10654345). VR platform code can be found [here](https://github.com/UniMelbHumanRoboticsLab/VRProEP). Dataset can be found [here](https://doi.org/10.26188/25592115).
+* Published in IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE TNSRE). Paper can be found [here](https://ieeexplore.ieee.org/document/10654345). VR platform code can be found [here](https://github.com/UniMelbHumanRoboticsLab/VRProEP). Dataset can be found [here](https://doi.org/10.26188/25592115).
 
 
 {{< youtubeLite id="YGia46q7cTQ" label="UA-DPC demo" >}}
@@ -29,7 +29,7 @@ math: true
 * Implemented Extremum Seeking Control and motion data acquisition firmware on **SAMD21** and **ESP32** microcontrollers using the **Bosch BNO055** sensor on FreeRTOS and bare-metal platforms with **DMA**, **I2C**, **SPI**, **ADC**, and **BLE** communication interfaces.
 * Designed and manufactured the mechatronic prototype using 3D printing and laser cutting.
 
-* Collaborated with colleagues at [Human Robotics Lab](https://blogs.unimelb.edu.au/human-robotics/). Published in IEEE Robotics and Automation Letter (IEEE-RAL). Paper can be found [here](https://www.researchgate.net/publication/339675253_Exploiting_Inherent_Human_Motor_Behaviour_in_the_Online_Personalisation_of_Human-Prosthetic_Interfaces). Dataset can be found [here](https://github.com/Rigaro/CompensationInSynergisticProsthesisData2020).
+* Collaborated with colleagues at [Human Robotics Lab](https://blogs.unimelb.edu.au/human-robotics/). Published in IEEE Robotics and Automation Letter (IEEE RA-L). Paper can be found [here](https://www.researchgate.net/publication/339675253_Exploiting_Inherent_Human_Motor_Behaviour_in_the_Online_Personalisation_of_Human-Prosthetic_Interfaces). Dataset can be found [here](https://github.com/Rigaro/CompensationInSynergisticProsthesisData2020).
 
 {{< youtubeLite id="otWtK7Y6WT4" label="personalisation demo" >}}
 

@@ -3,7 +3,7 @@ title: "Data-driven Modelling for Human–Robot Interaction in the Mining and Ma
 date: 2024-07-01
 description: "Research Project"
 summary: "Developed human-state prediction models for VR training that supports effective human–autonomy collaboration."
-tags: ["hri", "R&D", "modelling"]
+tags: ["VR (Unreal)", "EMG", "Motion" , "Eye Gaze", "Transformer"]
 showDate: false
 ---
 {{< katex >}}

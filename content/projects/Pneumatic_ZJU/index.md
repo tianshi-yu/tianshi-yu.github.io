@@ -2,8 +2,8 @@
 title: "Pneumatic-based Automation System"
 date: 2020-07-01
 description: "Research Project"
-summary: "Developed pneumatic-based mechatronic systems, including a pneumatic engine test rig and industrial assembly system using ARM Cortex-M and PLC."
-tags: ["pneumatic", "R&D"]
+summary: "Developed pneumatic-based mechatronic systems, including a pneumatic engine test rig and industrial assembly system."
+tags: ["STM32", "PLC","Mechanical Design"]
 showDate: false
 ---
 

@@ -3,7 +3,7 @@ title: "Mechatronics & Robotics Engineering Teaching & Mentorship"
 date: 2018-08-10
 description: "Research Project"
 summary: "Tutor and mentor in Robotics subjects, teaching robot kinematics, dynamics, control systems, and hands-on design & prototyping."
-tags: ["robotics", "teaching"]
+tags: ["Prototyping","Simulation","Mechatronics"]
 showDate: false
 ---
 

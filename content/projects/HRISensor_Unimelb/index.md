@@ -3,7 +3,7 @@ title: "Wearable Sensor Systems for Seamless Human-Machine Interaction"
 date: 2024-08-01
 description: "Research Project"
 summary: "Develop novel wearable sensor systems enabling accurate human intention detection (e.g., hand gesture recognition), and allowing seamless interaction."
-tags: ["sensor", "R&D"]
+tags: ["ESP32", "Hand Gesture","3D Printing"]
 showDate: false
 ---
 
